@@ -1,6 +1,6 @@
 version: "3.9"
 services:
-  bid-buddy-db:
+  lock-n-share-db:
     image: postgres
     restart: always
     container_name: lock-n-share-db
